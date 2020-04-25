@@ -3,3 +3,7 @@ i m hungry
 eat samosa
 
 eat jalebi
+
+-- changes by another dinesh
+
+don't eat above mentoned things instead eat fruits and salads and drink juice
